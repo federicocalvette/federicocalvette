@@ -1,6 +1,6 @@
 ## ✨ Hola, bienvenido a mi perfil 👋
 
-### Soy Federico, un entuciasta del mundo de la programación con <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+### Soy Federico, un entusiasta del mundo de la programación con <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
  
  
 <br>**🌱 Estoy aprendiendo tecnologías como:**
