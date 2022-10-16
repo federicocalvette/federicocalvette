@@ -16,6 +16,6 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
 <br><br>**¿Un dato random? 🤔 Tengo mi propia banda:**
-<br><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> <a href="https://open.spotify.com/artist/0Ckfkq7CKmG8AM3Ln6zcx2" target="_blank">De la Raíz</a> 
-<br><img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"/> <a href="https://www.youtube.com/channel/UChSfyFn6Ev4bm_yl7R7h2eg" target="_blank">De la Raíz</a> 
+<br><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> <a href="https://open.spotify.com/artist/0Ckfkq7CKmG8AM3Ln6zcx2" target="_blank"> De la Raíz</a> :microphone:	:guitar:	
+<br><img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"/> <a href="https://www.youtube.com/channel/UChSfyFn6Ev4bm_yl7R7h2eg" target="_blank"> De la Raíz</a> :guitar:	:microphone:	
 
