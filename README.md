@@ -1,15 +1,17 @@
-## ✨ Hola, bienvenido a mi perfil 👋
+## :uruguay: ✨ Hola, bienvenido a mi perfil 👋 :uruguay:
 
-### Soy Federico, un entusiasta del mundo de la programación con <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+### Soy Federico, un entusiasta del mundo de la programación!
+
+:sunglasses: :snake:	**Fan de** <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
  
  
-<br>**🌱 Estoy aprendiendo tecnologías como:**
+<br>**🌱 :nerd_face:	Estoy aprendiendo tecnologías como:**
  
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"/>  >> Para armar APIs 
 
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/> <img src="https://img.shields.io/badge/Requests-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>  >> Para automatización e intentar Scraping xD
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/> <img src="https://img.shields.io/badge/Requests-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>  >> Para automatización e intentar Scraping :rofl: 	
  
-<br>**😄 Nunca pierdo la esperanza de aprender:**
+<br>😄 :upside_down_face: **Nunca pierdo la esperanza de aprender:**
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
