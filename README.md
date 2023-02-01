@@ -1,4 +1,4 @@
-## :uruguay: ✨ Hola, bienvenido a mi perfil 👋 :uruguay:
+# :uruguay: ✨ Hola, bienvenido a mi perfil 👋 :uruguay:
 
 ### Soy Federico, un entusiasta del mundo de la programación!
 
@@ -13,7 +13,19 @@
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
+<!-- 
 <br><br>**¿Un dato random? 🤔 Tengo mi propia banda:**
 <br><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> <a href="https://open.spotify.com/artist/0Ckfkq7CKmG8AM3Ln6zcx2" target="_blank"> De la Raíz</a> :microphone:	:guitar:	
 <br><img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"/> <a href="https://www.youtube.com/channel/UChSfyFn6Ev4bm_yl7R7h2eg" target="_blank"> De la Raíz</a> :guitar:	:microphone:	
+-->
+<br/>
+<br/>
 
+## Datos de Github
+
+###### Lenguajes
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=federicocalvette&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+###### Estadísticas
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=federicocalvette&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
